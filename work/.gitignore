@@ -1,0 +1,10 @@
+flyspray.conf.php
+img/veloz.png
+attachments/*
+/.idea/
+/nbproject/*
+vendor/*
+composer.lock
+composer.phar
+/_site/
+.htaccess
